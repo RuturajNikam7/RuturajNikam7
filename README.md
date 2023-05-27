@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/ruturaj nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturaj nikam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ruturaj nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruturaj nikam" height="30" width="40" /></a>
 <a href="https://fb.com/ruturaj nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruturaj nikam" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_.nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_.nikam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ruturaj_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_.nikam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
